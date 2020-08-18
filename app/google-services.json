@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "40807711462",
+    "firebase_url": "https://kotafy-25ee0.firebaseio.com",
+    "project_id": "kotafy-25ee0",
+    "storage_bucket": "kotafy-25ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40807711462:android:2ab320b55e4c41acd27127",
+        "android_client_info": {
+          "package_name": "com.floyddipela.kotafly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40807711462-3oi5e0i0ntceu02mfqsccsg7ussgsskq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSwpczQDETtXQZLQLHN2LCDyikArDb2P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40807711462-3oi5e0i0ntceu02mfqsccsg7ussgsskq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40807711462:android:3f9ea54c5dd5363ad27127",
+        "android_client_info": {
+          "package_name": "com.floyddipela.kotafy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40807711462-3oi5e0i0ntceu02mfqsccsg7ussgsskq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSwpczQDETtXQZLQLHN2LCDyikArDb2P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40807711462-3oi5e0i0ntceu02mfqsccsg7ussgsskq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
